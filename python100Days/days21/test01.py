@@ -1,7 +1,6 @@
 import random
 
 if __name__ == '__main__':
-
     # 摇骰子
     counters=[0]*6
     print(counters)
